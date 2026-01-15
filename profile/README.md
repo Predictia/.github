@@ -7,4 +7,4 @@
 
 Take a look to some of our quick access links:
 * [ANEMOI Forks](https://github.com/orgs/Predictia/repositories?q=anemoi) from the ECMWF repository.
-* [AQUA Fork](https://github.com/Predictia/AQUA) from the DestinE-Climate-DT repository.
+* [AQUA Forks](https://github.com/Predictia/repositories?q=AQUA) from the DestinE-Climate-DT repository.
