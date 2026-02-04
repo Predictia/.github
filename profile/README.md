@@ -8,3 +8,4 @@
 Take a look to some of our quick access links:
 * [ANEMOI Forks](https://github.com/orgs/Predictia/repositories?q=anemoi) from the ECMWF repository.
 * [AQUA Forks](https://github.com/orgs/Predictia/repositories?q=AQUA) from the DestinE-Climate-DT repository.
+* [OSCARS - Regional State of the Climate](https://github.com/orgs/Predictia/repositories?q=oscars) from the DestinE-Climate-DT repository.
